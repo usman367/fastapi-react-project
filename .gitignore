@@ -1,6 +1,8 @@
 # Python
 backend/venv/
 backend/__pycache__/
+backend/routers/__pycache__/*
+C:\Users\usman\PycharmProjects\fastapi-react-project\backend\routers\__pycache__\example_router.cpython-311.pyc
 
 # Node.js
 frontend/node_modules/
